@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-GitHub hello world tutorial
+Matthias here. I enjoy developing with Rails.
